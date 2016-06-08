@@ -47,6 +47,8 @@ module CS
   COUNTRY_LONG = 5
   STATE = 6
   STATE_LONG = 7
+  PROVINCE = 8
+  PROVINCE_LONG = 9
   CITY = 10
 
   def self.install(country)
@@ -81,21 +83,30 @@ module CS
       rec[STATE] = rec[STATE].to_sym
       rec[CITY].gsub!(/\"/, "") # sometimes names come with a "\" char
       rec[STATE_LONG].gsub!(/\"/, "") # sometimes names come with a "\" char
+      rec[PROVINCE_LONG].gsub!(/\"/, "")
 
       # cities list: {TX: ["Texas City", "Another", "Another 2"]}
-      cities.merge!({rec[STATE] => []}) if ! states.has_key?(rec[STATE])
-      cities[rec[STATE]] << rec[CITY]
+      if rec[COUNTRY] == "ES" &&  ![:MD, :AS, :MC, :CB].include?(rec[STATE])
+        cities.merge!({rec[PROVINCE] => []}) if ! states.has_key?(rec[PROVINCE])
+        cities[rec[PROVINCE]] << rec[CITY]
+      else
+        cities.merge!({rec[STATE] => []}) if ! states.has_key?(rec[STATE])
+        cities[rec[STATE]] << rec[CITY]
+      end
 
       # states list: {TX: "Texas", CA: "California"}
-      if ! states.has_key?(rec[STATE])
+      if rec[COUNTRY] == "ES" && !states.has_key?(rec[PROVINCE]) &&  ![:MD, :AS, :MC, :CB].include?(rec[STATE])
+        state = {rec[PROVINCE] => rec[PROVINCE_LONG]}
+        states.merge!(state)
+      elsif  ! states.has_key?(rec[STATE]) && ! [:PV, :CL, :CM, :CT, :EX, :GA, :CN, :IB].include?(rec[STATE])
         state = {rec[STATE] => rec[STATE_LONG]}
         states.merge!(state)
       end
     end
 
     # sort
-    cities = Hash[cities.sort]
-    states = Hash[states.sort]
+    #cities = Hash[cities.sort]
+    #states = Hash[states.sort]
     cities.each { |k, v| cities[k].sort! }
 
     # save to states.us and cities.us
@@ -113,7 +124,7 @@ module CS
     # we don't have used this method yet: discover by the file extension
     fn = Dir[File.join(FILES_FOLDER, "cities.*")].last
     @current_country = fn.blank? ? nil : fn.split(".").last
-    
+
     # there's no files: we'll install and use :US
     if @current_country.blank?
       @current_country = :US
@@ -121,7 +132,7 @@ module CS
 
     # we find a file: normalize the extension to something like :US
     else
-      @current_country = @current_country.to_s.upcase.to_sym    
+      @current_country = @current_country.to_s.upcase.to_sym
     end
 
     @current_country
