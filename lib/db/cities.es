@@ -1,5 +1,6 @@
 ---
 GR:
+- ""
 - Albolote
 - Alhama de Granada
 - Alhendin
@@ -70,6 +71,7 @@ GR:
 - Zubia
 - "Órgiva"
 H:
+- ""
 - Aljaraque
 - Almonte
 - Alosno
@@ -108,6 +110,7 @@ H:
 - Valverde del Camino
 - Zalamea la Real
 BA:
+- ""
 - Aceuchal
 - Alburquerque
 - Almendralejo
@@ -161,6 +164,7 @@ BA:
 - Zafra
 - Zahinos
 CA:
+- ""
 - Alcalá de los Gazules
 - Algeciras
 - Algodonales
@@ -197,6 +201,7 @@ CA:
 - Villamartin
 - Zahara de los Atunes
 TO:
+- ""
 - Ajofrin
 - Albarreal de Tajo
 - Arcicollar
@@ -289,6 +294,8 @@ TO:
 - Yuncler
 - Yuncos
 :MC:
+- ""
+- "Águilas"
 - Abanilla
 - Abaran
 - Albujon
@@ -363,8 +370,8 @@ TO:
 - Totana
 - Valladolises
 - Yecla
-- "Águilas"
 GC:
+- ""
 - Agaete
 - Agüimes
 - Antigua
@@ -378,6 +385,7 @@ GC:
 - Firgas
 - Gáldar
 - Ingenio
+- La Mancha Blanca
 - La Oliva
 - La Playa de Arguineguin
 - Lajares
@@ -410,6 +418,7 @@ GC:
 - Valsequillo de Gran Canaria
 - Yaiza
 V:
+- ""
 - Ador
 - Agullent
 - Aielo de Malferit
@@ -528,6 +537,7 @@ V:
 - Villar del Arzobispo
 - Vinalesa
 A:
+- ""
 - Agost
 - Albatera
 - Alcoy
@@ -623,6 +633,7 @@ A:
 - el Campello
 - la Nucia
 SE:
+- ""
 - Acala del Rio
 - Alanis
 - Alcalá de Guadaira
@@ -704,6 +715,7 @@ SE:
 - Villaverde del Rio
 - "Écija"
 CR:
+- ""
 - Alcazar de San Juan
 - Alhambra
 - Almadén
@@ -748,6 +760,7 @@ CR:
 - Villarrubia de los Ojos
 - Villarta de San Juan
 CO:
+- ""
 - Aguilar
 - Albendin
 - Almodovar del Rio
@@ -787,6 +800,7 @@ CO:
 - Villanueva de Cordoba
 - Villarrubia
 AB:
+- ""
 - Albacete
 - Almansa
 - Balazote
@@ -813,6 +827,7 @@ AB:
 - Villamalea
 - Villarrobledo
 AL:
+- ""
 - Adra
 - Aguadulce
 - Albox
@@ -859,6 +874,7 @@ AL:
 - Vicar
 - Villaricos
 CU:
+- ""
 - Buenache de Alarcon
 - Cuenca
 - El Pedernoso
@@ -886,6 +902,7 @@ CU:
 - Villares del Saz
 - Zarzuela
 CS:
+- ""
 - Alcala de Xivert
 - Alcossebre
 - Alfondeguilla
@@ -928,6 +945,7 @@ CS:
 - Vinaros
 - l'Alcora
 MA:
+- ""
 - Alameda
 - Algarrobo
 - Alhaurin de la Torre
@@ -981,6 +999,7 @@ MA:
 - Vélez-Málaga
 - el Morche
 J:
+- ""
 - Alcala la Real
 - Andujar
 - Arjona
@@ -1030,6 +1049,7 @@ J:
 - Villanueva del Arzobispo
 - "Úbeda"
 TF:
+- ""
 - Adeje
 - Arafo
 - Arona
@@ -1080,6 +1100,7 @@ TF:
 - Tijarafe
 - Valverde
 CC:
+- ""
 - Ahigal
 - Alcantara
 - Aliseda
@@ -1124,6 +1145,7 @@ CC:
 - Trujillo
 - Valverde del Fresno
 PM:
+- ""
 - Alaró
 - Alcúdia
 - Algaida
@@ -1166,11 +1188,14 @@ PM:
 - Son Servera
 - s'Arracó
 - ses Salines
-'':
-- Ceuta
-- La Mancha Blanca
+ML:
+- ""
 - Melilla
+CE:
+- ""
+- Ceuta
 SS:
+- ""
 - Aduna
 - Aizarnazabal
 - Alza
@@ -1219,6 +1244,7 @@ SS:
 - Zumaia
 - Zumarraga
 Z:
+- ""
 - Abanto
 - Alagon
 - Alfajarin
@@ -1274,6 +1300,7 @@ Z:
 - Zaragoza
 - Zuera
 NA:
+- ""
 - Aizoain
 - Alsasua – Altsasu
 - Andosilla
@@ -1342,6 +1369,7 @@ NA:
 - Ziga
 - Zubiri
 VI:
+- ""
 - Alegria
 - Amurrio
 - Berantevilla
@@ -1368,7 +1396,8 @@ VI:
 - Villarreal de Alava
 - Vitoria-Gasteiz
 - Zuazo de Vitoria
-LO:
+RI:
+- ""
 - Agoncillo
 - Aguilar del Rio Alhama
 - Albelda de Iregua
@@ -1408,6 +1437,7 @@ LO:
 - Villamediana de Iregua
 - Zorraquin
 :MD:
+- ""
 - Ajalvir
 - Alcalá de Henares
 - Alcobendas
@@ -1527,6 +1557,7 @@ LO:
 - Villaviciosa de Odon
 - Zarzalejo
 SA:
+- ""
 - Alba de Tormes
 - Aldeanueva
 - Aldeaseca de Armuna
@@ -1560,6 +1591,7 @@ SA:
 - Vitigudino
 - Zaratan
 BI:
+- ""
 - Abadino
 - Algorta
 - Alonsotegi
@@ -1615,6 +1647,7 @@ BI:
 - Zaramillo
 - Zaratamo
 ZA:
+- ""
 - Benavente
 - Castrogonzalo
 - Colinas de Trasmonte
@@ -1631,6 +1664,7 @@ ZA:
 - Villaralbo
 - Zamora
 GU:
+- ""
 - Almonacid de Zorita
 - Alovera
 - Azuqueca de Henares
@@ -1664,6 +1698,7 @@ GU:
 - Yebes
 - Yunquera de Henares
 LU:
+- ""
 - Alta
 - Burela de Cabo
 - Cabana
@@ -1703,6 +1738,7 @@ LU:
 - Vilavella
 - Vivero
 OR:
+- ""
 - A Cidade
 - Allariz
 - Blancos
@@ -1738,6 +1774,7 @@ OR:
 - Viveiro
 - Xunqueira de Espadanedo
 :CB:
+- ""
 - Ajo
 - Ampuero
 - Arce
@@ -1826,6 +1863,7 @@ OR:
 - Villaviad
 - Viveda
 LE:
+- ""
 - Algadefe
 - Almazcara
 - Armunia
@@ -1873,6 +1911,7 @@ LE:
 - Villaverde de los Cestos
 - Vinales
 L:
+- ""
 - Adrall
 - Agramunt
 - Alcarras
@@ -1918,6 +1957,7 @@ L:
 - la Baronia de Rialb
 - la Granadella
 :AS:
+- ""
 - Alava
 - Almuna
 - Avilés
@@ -1947,6 +1987,8 @@ L:
 - La Felguera
 - La Pedrera
 - Langreo
+- Las Vegas
+- Los Campos
 - Llanera
 - Llanes
 - Luanco
@@ -1995,6 +2037,7 @@ L:
 - Villamayor
 - Villaviciosa
 AV:
+- ""
 - Amavida
 - Arenas de San Pedro
 - Arevalo
@@ -2023,6 +2066,7 @@ AV:
 - Villaviciosa
 - "Ávila"
 BU:
+- ""
 - Aranda de Duero
 - Arroyal
 - Bezana
@@ -2049,6 +2093,7 @@ BU:
 - Villarcayo
 - Villasana de Mena
 TE:
+- ""
 - Alcañiz
 - Alcorisa
 - Alfambra
@@ -2073,6 +2118,7 @@ TE:
 - Villarluengo
 - Villarquemado
 SG:
+- ""
 - Aguilafuente
 - Boceguillas
 - Cantimpalos
@@ -2097,6 +2143,7 @@ SG:
 - Villafranca
 - Villar
 B:
+- ""
 - Abrera
 - Aiguafreda
 - Alella
@@ -2262,6 +2309,7 @@ B:
 - la Garriga
 - la Nou de Bergueda
 PO:
+- ""
 - A Estrada
 - Arbo
 - Arcade
@@ -2305,6 +2353,7 @@ PO:
 - Vilagarcia de Arousa
 - Vilanova de Arousa
 VA:
+- ""
 - Alaejos
 - Aldeamayor de San Martin
 - Arroyo
@@ -2335,6 +2384,7 @@ VA:
 - Villalba de los Alcores
 - Villanubla
 P:
+- ""
 - Aguilar de Campoo
 - Astudillo
 - Carrion de los Condes
@@ -2354,6 +2404,7 @@ P:
 - Villacuende
 - Villamuriel de Cerrato
 GI:
+- ""
 - Agullana
 - Anglès
 - Argelaguer
@@ -2447,6 +2498,7 @@ GI:
 - la Vall
 - la Vall del Bac
 T:
+- ""
 - Alcanar
 - Alcover
 - Alforja
@@ -2521,6 +2573,7 @@ T:
 - la Riera de Gaia
 - les Borges del Camp
 C:
+- ""
 - A Coruña
 - A Pobra do Caraminal
 - Abegondo
@@ -2590,6 +2643,7 @@ C:
 - Vedra
 - Vilasantar
 SO:
+- ""
 - Agreda
 - Aldealsenor
 - Almazan
@@ -2604,6 +2658,7 @@ SO:
 - Pedro
 - Soria
 HU:
+- ""
 - Albalate de Cinca
 - Alcala del Obispo
 - Almudebar

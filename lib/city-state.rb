@@ -31,15 +31,16 @@ module CS
     true
   end
 
-  def self.update
-    self.update_maxmind # update via internet
-    Dir[File.join(FILES_FOLDER, "states.*")].each do |state_fn|
-      self.install(state_fn.split(".").last.upcase.to_sym) # reinstall country
-    end
-    @countries, @states, @cities = [{}, {}, {}] # invalidades cache
-    File.delete COUNTRIES_FN # force countries.yml to be generated at next call of CS.countries
-    true
-  end
+  # not allow update - states and cities fields save with changes
+  # def self.update
+  #   self.update_maxmind # update via internet
+  #   Dir[File.join(FILES_FOLDER, "states.*")].each do |state_fn|
+  #     self.install(state_fn.split(".").last.upcase.to_sym) # reinstall country
+  #   end
+  #   @countries, @states, @cities = [{}, {}, {}] # invalidades cache
+  #   File.delete COUNTRIES_FN # force countries.yml to be generated at next call of CS.countries
+  #   true
+  # end
 
   # constants: CVS position
   ID = 0
@@ -95,10 +96,10 @@ module CS
       end
 
       # states list: {TX: "Texas", CA: "California"}
-      if rec[COUNTRY] == "ES" && !states.has_key?(rec[PROVINCE]) &&  ![:MD, :AS, :MC, :CB].include?(rec[STATE])
+      if rec[COUNTRY] == "ES" && !states.has_key?(rec[PROVINCE]) &&  ![:MD, :AS, :MC, :CB, :RI, :NC, :CE, :ML].include?(rec[STATE])
         state = {rec[PROVINCE] => rec[PROVINCE_LONG]}
         states.merge!(state)
-      elsif  ! states.has_key?(rec[STATE]) && ! [:PV, :CL, :CM, :CT, :EX, :GA, :CN, :IB].include?(rec[STATE])
+      elsif  ! states.has_key?(rec[STATE]) && ![:PV, :CL, :CM, :CT, :EX, :GA, :CN, :IB, :AN, :AR].include?(rec[STATE])
         state = {rec[STATE] => rec[STATE_LONG]}
         states.merge!(state)
       end
