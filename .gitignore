@@ -13,6 +13,6 @@
 *.a
 mkmf.log
 *.gem
-cities.*
-states.*
+#cities.*
+#states.*
 db/countries.yml

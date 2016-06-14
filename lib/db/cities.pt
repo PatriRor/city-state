@@ -1,0 +1,805 @@
+---
+:14:
+- ""
+- Abrantes
+- Alcanede
+- Alcanena
+- Almeirim
+- Alpiarca
+- Amiaes de Baixo
+- Amiaes de Cima
+- Bemfica
+- Benavente
+- Cartaxo
+- Cavaleiros
+- Charruada
+- Constancia
+- Entroncamento
+- Fátima
+- Golega
+- Igreja Nova
+- Linhaceira
+- Lourinha
+- Marinhais
+- Minde
+- Mocarria
+- Monsanto
+- Montalvo
+- Obidos
+- Ortiga
+- Ourem
+- Poceirao
+- Pontevel
+- Porto Alto
+- Praia do Ribatejo
+- Riachos
+- Rio Maior
+- Salvaterra de Magos
+- Samora Correia
+- Santarém
+- Sardoal
+- Tomar
+- Torres Novas
+- Tremes
+- Vale da Pinta
+- Vale de Santarem
+- Vialonga
+- Vila Cha de Ourique
+- Vila Nova da Barquinha
+- Zibreira
+:11:
+- ""
+- Abobada
+- Agualva
+- Alcabideche
+- Alcoentre
+- Alenquer
+- Alfornelos
+- Alfragide
+- Alges
+- Algueirao
+- Alhandra
+- Almada
+- Almargem
+- Alvarinhos
+- Alverca
+- Amadora
+- Amoreira
+- Arruda dos Vinhos
+- Aveiras de Cima
+- Azoia
+- Azueira
+- Baleia
+- Barcarena
+- Belas
+- Bicesse
+- Boavista
+- Bobadela
+- Bucelas
+- Buraca
+- Cabrela
+- Cacem
+- Cadaval
+- Camarate
+- Canecas
+- Caparide
+- Carcavelos
+- Carnaxide
+- Carregado
+- Cascais
+- Castanheira do Ribatejo
+- Caxias
+- Cercal
+- Colares
+- Cruz Quebrada
+- Damaia
+- Dois Portos
+- Dona Maria
+- Encarnacao
+- Entroncamento
+- Ericeira
+- Estoril
+- Famoes
+- Folgados
+- Frielas
+- Galiza
+- Gradil
+- Idanha
+- Igreja Nova
+- Linda a Velha
+- Linho
+- Lisbon
+- Lourel de Baixo
+- Loures
+- Lourinhã
+- Lousa
+- Mafra
+- Malveira
+- Malveira da Serra
+- Manique de Baixo
+- Manique do Intendente
+- Marteleira
+- Massama
+- Mem Martins
+- Milharado
+- Monte Estoril
+- Montelavar
+- Moscavide
+- Odivelas
+- Oeiras
+- Olivais
+- Ota
+- Paco de Arcos
+- Palhais
+- Parede
+- Pero Pinheiro
+- Pinheiro
+- Polima
+- Pontinha
+- Portela
+- Porto
+- Porto Salvo
+- Povoa da Galega
+- Povoa de Santa Iria
+- Povoa de Santo Adriao
+- Quejas
+- Queluz
+- Queluz de Baixo
+- Ramada
+- Rana
+- Reguengo Grande
+- Rinchoa
+- Rio de Mouro
+- Runa
+- Sacavem
+- Santa Iria da Azoia
+- Santo Antao do Tojal
+- Santo Antonio
+- Sao Domingos de Rana
+- Sao Joao da Talha
+- Sao Joao das Lampas
+- Sao Joao dos Montes
+- Sao Juliao do Tojal
+- Sao Marcos
+- Sao Pedro da Cadeira
+- Sao Pedro do Estoril
+- Seixal
+- Sete Rios
+- Silveira
+- Sintra
+- Sobral de Monte Agraco
+- Sobralinho
+- Sobreiro
+- Talaide
+- Tercena
+- Tires
+- Torres Vedras
+- Trancoso de Baixo
+- Turcifal
+- Unhos
+- Venda do Pinheiro
+- Vermelha
+- Vialonga
+- Vila Franca de Xira
+- Vila Franca do Rosario
+- Zambujal
+:07:
+- ""
+- Alandroal
+- Arraiolos
+- Borba
+- Campinho
+- Escoural
+- Estremoz
+- Evora
+- Forte
+- Monsaraz
+- Montemor-o-Novo
+- Outeiro
+- Portel
+- Redondo
+- Reguengos de Monsaraz
+- Sao Miguel de Machede
+- Terena
+- Vendas Novas
+- Viana do Alentejo
+- Vimieiro
+:08:
+- ""
+- Albufeira
+- Algoz
+- Aljezur
+- Almancil
+- Alportel
+- Altura
+- Armacao de Pera
+- Benafim
+- Boliqueime
+- Cacela
+- Carvoeiro
+- Castro Marim
+- Estoi
+- Estombar
+- Faro
+- Ferragudo
+- Ferreiras
+- Lagoa
+- Lagos
+- Loule
+- Mexilhoeira Grande
+- Monchique
+- Monte Gordo
+- Olhao
+- Olhos de Agua
+- Paderne
+- Parchal
+- Pechao
+- Pera
+- Poco Barreto
+- Portimao
+- Praia do Carvoeiro
+- Quarteira
+- Santa Barbara de Nexe
+- Sao Bartolomeu de Messines
+- Sao Bras de Alportel
+- Silves
+- Tavira Municipality
+- Tunes
+- Vila Real de Santo António
+- Vila do Bispo
+:02:
+- ""
+- Aldeia dos Fernandes
+- Aljustrel
+- Almodovar
+- Beja
+- Castro Verde Municipality
+- Cuba
+- Ferreira do Alentejo
+- Moura
+- Odemira
+- Ourique
+- Quinta
+- Santa Clara-a-Velha
+- Serpa
+- Vidigueira
+- Vila Alva
+- Vila Nova
+:15:
+- ""
+- Alcacer do Sal
+- Alcochete
+- Aldeia de Paio Pires
+- Aldeia do Meco
+- Alhos Vedros
+- Almada
+- Amora
+- Baixa da Banheira
+- Barreiro
+- Cacilhas
+- Caparica
+- Charneca
+- Corroios
+- Costa de Caparica
+- Ermidas
+- Fogueteiro
+- Grandola
+- Lavradio
+- Moita
+- Montijo
+- Palmela
+- Pegoes Velhos
+- Penteado
+- Piedade
+- Pinhal Novo
+- Pragal
+- Quinta do Anjo
+- Samouco
+- Santiago do Cacem
+- Santo Andre
+- Santo Antonio da Charneca
+- Sao Francisco
+- Sarilhos Grandes
+- Seixal
+- Sesimbra
+- Setúbal
+- Sines Municipality
+- Sobreda
+- Torre da Marinha
+- Trafaria
+- Vila Nogueira de Azeitao
+:05:
+- ""
+- Alpedrinha
+- Atalaia
+- Belmonte
+- Bouca
+- Castelo Branco
+- Covilha
+- Ferro
+- Fundao
+- Madeira
+- Paul
+- Penha Garcia
+- Porto
+- Proenca-a-Nova
+- Sao Vicente da Beira
+- Serta
+- Silvares
+- Soalheira
+- Teixoso
+- Valverde
+- Vila de Rei
+:30:
+- ""
+- Arco da Calheta
+- Campanario
+- Canhas
+- Canical
+- Canico
+- Câmara de Lobos
+- Funchal
+- Machico
+- Ponta do Sol
+- Porto Moniz
+- Porto da Cruz
+- Ribeira Brava
+- Santa Cruz
+- Santana
+- Vila de Porto Santo
+:10:
+- ""
+- Alcobaca
+- Alqueidao da Serra
+- Alvaiazere
+- Amor
+- Atouguia da Baleia
+- Avelar
+- Batalha
+- Benedita
+- Bombarral
+- Caldas da Rainha
+- Calvaria de Cima
+- Carrico
+- Cavadas
+- Chao de Couce
+- Cidade
+- Coimbra
+- Colmeias
+- Ferrel
+- Figueiro dos Vinhos
+- Gandara dos Olivais
+- Garruchas
+- Graca
+- Guia
+- Juncal
+- Leiria
+- Lourical
+- Macas de Caminho
+- Maceira
+- Marinha Grande
+- Martinganca
+- Mira
+- Moura
+- Murteira
+- Nadadouro
+- Nazaré
+- Obidos
+- Olivais
+- Pataias
+- Pedreiras
+- Pedrogao Grande
+- Peniche
+- Pinhal
+- Pombal
+- Porto de Mos
+- Regueira de Pontes
+- Santa Catarina
+- Santa Catarina da Serra
+- Santiago da Guarda
+- Souto da Carpalhosa
+- Valado de Frades
+- Vermoil
+- Vieira de Leiria
+:12:
+- ""
+- Alter do Chao
+- Arronches
+- Assumar
+- Beira
+- Cabeco de Vide
+- Campo Maior
+- Cano
+- Elvas
+- Monforte
+- Nisa
+- Ponte de Sor
+- Portalegre
+- Quinta
+- Sao Bras
+- Souzel
+- Vale de Acor
+:09:
+- ""
+- Aguiar da Beira Municipality
+- Alcains
+- Gouveia
+- Guarda
+- Lagarinhos
+- Roque
+- Sabugal
+- Santiago
+- Seia
+- Soito
+- Tourais
+- Trancoso
+- Vila Nova de Tazem
+- Vilar Formoso
+:18:
+- ""
+- Campia
+- Caramulo
+- Castelejo
+- Castro Daire
+- Cinfaes
+- Dalvares
+- Felgueiras
+- Ferradosa
+- Lamego
+- Mamouros
+- Mangualde
+- Montes
+- Mortagua
+- Mozelos
+- Nelas
+- Oleiros
+- Parada de Gonta
+- Parada do Bispo
+- Paredes da Beira
+- Penedono
+- Pinheiro de Azere
+- Prime
+- Santa Comba Dao
+- Santarem
+- Sao Joao da Pesqueira
+- Sao Pedro do Sul
+- Sao Vicente de Lafoes
+- Satao
+- Sul
+- Tabuaco
+- Tarouca
+- Tondela
+- Trapa
+- Vale
+- Vila Nova de Paiva
+- Viseu
+- Vouzela
+:03:
+- ""
+- Alvelos
+- Amares
+- Apulia
+- Avidos
+- Azurem
+- Barcelos
+- Basto
+- Braga
+- Brito
+- Cabanelas
+- Cabeceiras de Basto
+- Cabecudos
+- Caldas
+- Caldas das Taipas
+- Caldas de Vizela
+- Canedo
+- Cavaloes
+- Celorico de Basto
+- Creixomil
+- Dossaos
+- Esposende
+- Fafe
+- Fao
+- Fradelos
+- Guardizela
+- Guimarães
+- Joane
+- Lago
+- Lagoa
+- Landim
+- Lousado
+- Mesao Frio
+- Milhazes
+- Moreira de Conegos
+- Neiva
+- Nespereira
+- Nine
+- Oliveira
+- Palmeira
+- Pevidem
+- Ponte
+- Povoa de Lanhoso
+- Prado
+- Prazins
+- Quinchaes
+- Real
+- Riba de Ave
+- Ribeirao
+- Rio de Moinhos
+- Ronfe
+- Silva
+- Tamel
+- Telhado
+- Vale
+- Vieira do Minho
+- Vila Nova
+- Vila Nova de Famalicao
+- Vila Verde
+- Vizela
+:13:
+- ""
+- Agucadoura
+- Aguda
+- Alfena
+- Amarante
+- Amorim
+- Arcozelo
+- Arvore
+- Avintes
+- Baguim
+- Baguim do Monte
+- Baião
+- Baltar
+- Barrosas
+- Campo
+- Canelas
+- Canidelo
+- Carvalhosa
+- Constance
+- Ermesinde
+- Fanzeres
+- Felgueiras
+- Ferreira
+- Foz do Sousa
+- Freamunde
+- Gandra
+- Gemunde
+- Goncalves
+- Gondomar
+- Granja
+- Grijo
+- Guimaraes
+- Gulpilhares
+- Infesta
+- Jovim
+- Lavra
+- Leca da Palmeira
+- Leca do Bailio
+- Lordelo
+- Lousada
+- Macieira da Lixa
+- Maia
+- Marco de Canaveses
+- Margaride
+- Marinha
+- Massarelos
+- Matosinhos Municipality
+- Modivas
+- Moure
+- Muro
+- Negrelos
+- Olival
+- Oliveira do Douro
+- Paraiso
+- Paredes
+- Paços de Ferreira
+- Pedreira
+- Pedroso
+- Pedroucos
+- Penafiel
+- Porto
+- Povoa
+- Póvoa de Varzim
+- Rebordosa
+- Recarei
+- Rio Tinto
+- Roriz
+- Sandim
+- Santa Marta
+- Santiago
+- Santo Tirso
+- Sao Felix da Marinha
+- Sao Mamede de Infesta
+- Sao Romao do Coronado
+- Sendim
+- Senhora da Hora
+- Seroa
+- Sobrado
+- Sobrosa
+- Touguinha
+- Travanca
+- Valbom
+- Valongo
+- Varzea do Douro
+- Vila Boa de Quires
+- Vila Cha
+- Vila Nova de Gaia
+- Vila do Conde
+- Vilar do Paraiso
+- Vilar do Pinheiro
+- Vilela
+- Vizela
+:04:
+- ""
+- Braganca
+- Carrazedo
+- Macedo de Cavaleiros
+- Miranda do Douro
+- Mirandela
+- Samil
+- Torre de Moncorvo
+- Vinhais
+:01:
+- ""
+- Acores
+- Aguada de Cima
+- Albergaria-a-Velha
+- Anadia
+- Anta
+- Argoncilhe
+- Arouca
+- Arrifana
+- Avanca
+- Aveiro
+- Caldas de Sao Jorge
+- Calvao
+- Canedo
+- Castelo de Paiva
+- Cesar
+- Cortegaca
+- Cucujaes
+- Eixo
+- Escapaes
+- Esmoriz
+- Espinho
+- Estarreja
+- Feira
+- Fiaes
+- Gafanha da Nazare
+- Ilhavo
+- Lourosa
+- Maceda
+- Mealhada
+- Mourisca do Vouga
+- Murtosa
+- Nogueira
+- Nogueira da Regedoura
+- Oia
+- Oliveira
+- Oliveira de Azeméis
+- Oliveira do Bairro
+- Ovar
+- Palhaca
+- Pardilho
+- Pinheiro da Bemposta
+- Ponte de Vagos
+- Povoa
+- Povoa do Forno
+- Randam
+- Romariz
+- Salreu
+- Sangalhos
+- Sanguedo
+- Santiago de Riba-Ul
+- Sao Joao
+- Sao Joao da Madeira
+- Sao Joao de Ver
+- Sao Roque
+- Sever do Vouga
+- Sobrado de Paiva
+- Vagos
+- Vale
+- Vale de Cambra
+- Valega
+- Vilarinho do Bairro
+- "Águeda Municipality"
+:17:
+- ""
+- Aguas Santas
+- Alijó Municipality
+- Boticas
+- Castelo
+- Chaves
+- Freixo
+- Godim
+- Mesao Frio
+- Montes
+- Paredes
+- Pedras Salgadas
+- Pereira
+- Peso da Régua Municipality
+- Salto
+- Sanfins do Douro
+- Santa Marta de Penaguiao
+- Trofa
+- Vidago
+- Vila Real
+- Vila do Conde
+- Vilar de Perdizes
+- Vilarandelo
+- Vilarinho das Paranheiras
+- Vilarinho de Arcos
+:16:
+- ""
+- Arcos de Valdevez
+- Bico
+- Caminha
+- Castelo
+- Darque
+- Felgueiras
+- Marco
+- Moncao
+- Paredes de Coura
+- Ponte da Barca
+- Ponte de Lima
+- Porto
+- Ramo
+- Refoios do Lima
+- Valenca
+- Viana do Castelo
+- Vila Nova
+- Vila Nova de Cerveira
+- Vila Praia de Ancora
+:06:
+- ""
+- Alfarelos
+- Arazede
+- Arganil
+- Calvete
+- Cantanhede
+- Carapinheira
+- Carvalhal
+- Carvalho
+- Casal
+- Casal da Areia
+- Catraia de Sao Paio
+- Ceira
+- Cernache
+- Coimbra
+- Condeixa-a-Nova
+- Costa de Lavos
+- Figueira da Foz Municipality
+- Figueira de Lorvao
+- Granja do Ulmeiro
+- Lagoas
+- Lavos
+- Lorvao
+- Lousã
+- Mira
+- Miranda do Corvo
+- Montemor-o-Velho
+- Murtede
+- Nogueira do Cravo
+- Oliveira do Hospital
+- Penacova
+- Penela
+- Poiares
+- Praia de Mira
+- Sao Joao do Campo
+- Senhora das Febres
+- Serpins
+- Soure Municipality
+- Tabua
+- Taveiro
+- Tocha
+:20:
+- ""
+- Angra do Heroísmo
+- Lagoa
+- Lajes
+- Ponta
+- Ponta Delgada
+- Praia da Vitoria
+- Praia do Almoxarife
+- Ribeira Grande
+- Vila Nova
+- Vila do Porto

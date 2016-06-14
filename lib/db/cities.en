@@ -1,0 +1,450 @@
+---
+NBL:
+- ""
+- Alnwick
+- Berwick
+- Hexham
+- Corbridge
+- Morpeth
+- Warkworth
+- Blyth
+- Embleton
+TAW:
+- ""
+- Newcastle upon Tyne
+- Gateshead
+- Sunderland
+- North Tyneside
+- South Tyneside
+DUR:
+- ""
+- Durham
+- Hartlepool
+- Darlington
+- Stockton-on-Tees
+CMA:
+- ""
+- Barrow-in-Furness
+- South Lakeland
+- Copeland
+- Allerdale
+- Eden
+- Carlisle
+LAN:
+- ""
+- West Lancashire
+- Chorley
+- South Ribble
+- Fylde
+- Preston
+- Wyre
+- Lancaster
+- Ribble Valley
+- Pendle
+- Burnley
+- Rossendale
+- Hyndburn
+- Blackpool
+- Blackburn with Darwen
+NYK:
+- ""
+- Selby
+- Harrogate
+- Craven
+- Richmondshire
+- Hambleton
+- Ryedale
+- Scarborough
+- Ciudad de York
+- Redcar and Cleveland
+- Middlesbrough
+- Stockton-on-Tees
+ERY:
+- ""
+- Hull
+- Beverley
+- Moor
+- Wetwang
+- East Riding of Yorkshire
+- Kingston upon Hull
+SYK:
+- ""
+- Sheffield
+- Rotherham
+- Doncaster
+- Barnsley
+WYK:
+- ""
+- Leeds
+- Wakefield
+- Kirklees
+- Calderdale
+- Bradford
+MAN:
+- ""
+- Ciudad de Mánchester
+- Stockport
+- Tameside
+- Oldham
+- Rochdale
+- Bury
+- Bolton
+- Wigan
+- Ciudad de Salford
+- Trafford
+MER:
+- ""
+- Liverpool
+- Sefton
+- Knowsley
+- St.Helens
+- Wirral
+CHE:
+- ""
+- Ellesmere Port and Neston
+- Chester
+- Crewe and Nantwich
+- Congleton
+- Macclesfield
+- Vale Royal
+- Halton
+- Warrington
+DER:
+- ""
+- High Peak
+- Derbyshire Dales
+- South Derbyshire
+- Erewash
+- Amber Valley
+- North East Derbyshire
+- Chesterfield
+- Bolsover
+- Derby
+NOT:
+- ""
+- Rushcliffe
+- Broxtowe
+- Ashfield
+- Gedling
+- Newark and Sherwood
+- Mansfield
+- Bassetlaw
+- Nottingham (Unitario)
+LIN:
+- ""
+- Lincoln
+- North Kesteven
+- South Kesteven
+- South Holland
+- Boston
+- Lindsey Este
+- Lindsey Oeste
+- North Lincolnshire
+- North East Lincolnshire
+RUT:
+- ""
+- Oakham
+- Uppingham
+- Rutland Water
+- Stamford
+LEI:
+- ""
+- Charnwood
+- Melton
+- Harborough
+- Oadby and Wigston
+- Blaby
+- Hinckley and Bosworth
+- North West Leicestershire
+- Leicester
+STA:
+- ""
+- Tamworth
+- Lichfield
+- Cannock Chase
+- South Staffordshire
+- Newcastle-under-Lyme
+- Staffordshire Moorlands
+- East Staffordshire
+- Stoke-on-Trent
+SHR:
+- ""
+- Consejo de Shropshire
+- Telford and Wrekin
+HER:
+- ""
+- Hereford
+- Leominster
+- Ross on Wye
+- Ledbury
+- Bromyard
+- Kington
+WOR:
+- ""
+- Worcester
+- Malvern Hills
+- Wyre Forest
+- Bromsgrove
+- Redditch
+- Wychavon
+OMI:
+- ""
+- Wolverhampton
+- Dudley
+- Walsall
+- Sandwell
+- Birmingham
+- Soilhull
+- Coventry
+WAR:
+- ""
+- North Warwickshire
+- Nuneaton and Bedworth
+- Rugby
+- Stratford-on-Avon
+- Warwick
+NOR:
+- ""
+- South Northamptonshire
+- Northampton
+- Daventry
+- Wellingborough
+- Kettering
+- Corby
+- East Northamptonshire
+CAM:
+- ""
+- Cambridge
+- Huntingdon
+- Peterborough
+- Soham
+NOK:
+- ""
+- Norwich
+- South Norfolk
+- Great Yarmouth
+- Broadland
+- North Norfolk
+- King's Lynn and West Norfolk
+- Breckland
+SUF:
+- ""
+- Ipswich
+- Suffolk Coastal
+- Waveney
+- Mid Suffolk
+- Babergh
+- Bury St Edmunds
+- Forest Heath
+ESS:
+- ""
+- Harlow
+- Epping Forest
+- Brentwood
+- Basildon
+- Castle Point
+- Rochford
+- Maldon
+- Chelmsford
+- Uttlesford
+- Braintree
+- Colchester
+- Tendring
+- Thurrock
+- Southend-on-Sea
+- Gold Bays
+HFO:
+- ""
+- Three Rivers
+- Watford
+- Hertsmere
+- Welwyn Hatfield
+- Broxbourne
+- East Hertfordshire
+- Stevenage
+- North Hertfordshire
+- St. Albans
+- Dacorum
+BED:
+- ""
+- Bedford
+- Central Bedfordshire
+- Luton
+BUC:
+- ""
+- South Bucks
+- Chiltern
+- Wycombe
+- Aylesbury Vale
+- Milton Keynes
+OXF:
+- ""
+- Oxford
+- Cherwell
+- Oxfordshire Meridional
+- Valle de White Horse
+- Oxfordshire Occidental
+GLU:
+- ""
+- Gloucester
+- Tewkesbury
+- Cheltenham
+- Cotswold
+- Stroud
+- Forest of Dean
+- South Gloucestershire
+BRI:
+- ""
+- Brístol
+SOM:
+- ""
+- South Somerset
+- Taunton Deane
+- West Somerset
+- Sedgemoor
+- Mendip
+- Bath and North East Somerset
+- North Somerset
+WIL:
+- ""
+- Consejo de Wiltshire
+- Swindon
+- Calne
+- Chippenham
+- Devizes
+- Marlborough
+- Salisbury
+- Swindon
+- Trowbridge
+- Warminster
+- Westbury
+BER:
+- ""
+- West Berkshire
+- Reading
+- Wokingham
+- Bracknell Forest
+- Windsor and Maidenhead
+- Slough
+- Maidenhead
+- Newbury
+GLO:
+- ""
+- Ciudad de Londres
+- Ciudad de Westminster
+- Kensington y Chelsea
+- Hammersmith y Fulham
+- Wandsworth
+- Lambeth
+- Southwark
+- Tower Hamlets
+- Hackney
+- Islington
+- Camden
+- Brent
+- Ealing
+- Hounslow
+- Richmond upon Thames
+- Kingston upon Thames
+- Merton
+- Sutton
+- Croydon
+- Bromley
+- Lewisham
+- Greenwich
+- Bexley
+- Havering
+- Barking y Dagenham
+- Redbridge
+- Newham
+- Waltham Forest
+- Haringey
+- Enfield
+- Barnet
+- Harrow
+- Hillingdon
+KEN:
+- ""
+- Ashford
+- Canterbury
+- Dartford
+- Dover
+- Gravesham
+- Maidstone
+- Sevenoaks
+- Shepway
+- Swale
+- Thanet
+- Tonbridge and Malling y Tunbridge Wells
+- Medway
+ESU:
+- ""
+- Hastings
+- Rother
+- Wealden
+- Eastbourne
+- Lewes
+- Brighton y Hove
+WSU:
+- ""
+- Worthing
+- Arun
+- Chichester
+- Horsham
+- Crawley
+- Mid Sussex
+- Adur
+SUR:
+- ""
+- Elmbridge
+- Epsom and Ewell
+- Guildford
+- Mole Valley
+- Reigate and Banstead
+- Runnymede
+- Spelthorne
+- Surrey Heath
+- Tandridge
+- Waverley y Woking
+HAM:
+- ""
+- Gosport
+- Fareham
+- Winchester
+- Havant
+- East Hampshire
+- Hart
+- Rushmoor
+- Basingstoke y Deane
+- Test Valley
+- Eastleigh
+- New Forest
+- Southampton
+- Portsmouth
+WIS:
+- ""
+- Isla de Wight
+DOR:
+- ""
+- Weymouth and Portland
+- West Dorset
+- North Dorset
+- Purbeck
+- East Dorset
+- Christchurch
+- Bournemouth (Unitario)
+- Poole (Unitario)
+DEV:
+- ""
+- Exeter
+- East Devon
+- Mid Devon
+- North Devon
+- Torridge
+- South Hams
+- Teignbridge
+- Plymouth
+- Torquay
+COR:
+- ""
+- Cornualles
